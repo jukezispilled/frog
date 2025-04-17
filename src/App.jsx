@@ -13,7 +13,7 @@ export default function AlexFronArticle() {
       <h1 className="text-3xl sm:text-4xl font-bold mb-6 text-gray-900">
         The Curious Case of Alex: The Straight Frog
       </h1>
-      <p className="text-lg leading-relaxed text-gray-700 max-w-4xl">
+      <p className="text-lg leading-relaxed text-gray-700 max-w-5xl">
         Hold onto your seats, folks, because what we’re about to dive into is nothing short of mind-blowing. Alex—an enigma, a man who’s more elusive than a shadow in the night, more controversial than a glass of raw milk—is at the center of a deep, dark, interdimensional conspiracy that the global elites don't want you to know about. We’re talking about the straight frog phenomenon. Yes, you heard that right. 
 
         But first, let's talk about the **gay frog** conspiracy that’s been sweeping the underground forums. You’ve seen the videos, you’ve heard the whispers. What Alex has been warning us about for years is finally being exposed: the frogs aren’t just turning gay—they’re becoming radicalized! It's not a simple matter of biology, no. There are darker forces at play. Hidden in the very water we drink, pumped with chemicals that are making our amphibian friends lose their natural instincts. And don’t you dare dismiss it as "conspiracy theory"—this is science. The globalists, the shadowy cabals, they’ve been manipulating genetics, engineering a gay frog agenda that’s part of a larger plan to destabilize our society.
